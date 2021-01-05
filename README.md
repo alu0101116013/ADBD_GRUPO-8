@@ -35,8 +35,8 @@ Los componentes de este proyecto hemos decidido llevar a cabo una base de datos 
 
 ### 2. Supuesto del Proyecto de BBDD <a name="id2"></a>
 Descripción breve
-- [Enlace GitHub]()
-- [Enlace Drive]()
+- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Documentos%20del%20Proyecto/Supuesto%20del%20proyecto%20de%20BBDD.pdf)
+- [Enlace Drive](https://drive.google.com/file/d/14hSgZ9raKDNAWRXl9-eUyaml0oNe0_RK/view?usp=sharing)
  
 ### 3. Modelo Conceptual E-R <a name="id3"></a>
 Descripción breve
