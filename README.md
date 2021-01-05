@@ -31,10 +31,8 @@ ___
 ### 1. Introducción <a name="id1"></a>
 El proyecto final a desarrollar consiste en diseñar e implementar una propia base de datos que abarque todos los conceptos trabajados durante el transcurso de la materia Administración y Diseño de Base de Datos.
 
-Los componentes de este proyecto hemos decidido llevar a cabo una base de datos correspondiente a la gestión de una club deportivo.
-
 ### 2. Supuesto del Proyecto de BBDD <a name="id2"></a>
-Descripción breve
+Los componentes de este proyecto hemos decidido llevar a cabo una base de datos correspondiente a la gestión de un club deportivo.
 - [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Documentos%20del%20Proyecto/Supuesto%20del%20proyecto%20de%20BBDD.pdf)
 - [Enlace Drive](https://drive.google.com/file/d/14hSgZ9raKDNAWRXl9-eUyaml0oNe0_RK/view?usp=sharing)
  
@@ -79,6 +77,7 @@ Descripción breve
 - [Enlace Drive]()
 
 ### 11. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id11"></a>
+Descripción breve
 - [Enlace GitHub]()
 - [Enlace Drive]()
 
