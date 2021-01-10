@@ -38,8 +38,8 @@ Los componentes de este proyecto hemos decidido llevar a cabo una base de datos 
  
 ### 3. Modelo Conceptual E-R <a name="id3"></a>
 Descripción breve
-- [Enlace GitHub]()
-- [Enlace Drive]()
+- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Documentos%20del%20Proyecto/Modelo%20E-R.pdf)
+- [Enlace Drive](https://drive.google.com/file/d/1p6va2wQwCAbSfThFObRP6R2zDlyJyIuS/view?usp=sharing)
 
 ### 4. Modelo Lógico Relacional <a name="id4"></a>
 Descripción breve
