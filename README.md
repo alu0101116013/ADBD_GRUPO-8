@@ -20,8 +20,7 @@ ___
 5. [Generación de Código](#id5)
 6. [Carga de Datos](#id6)
 7. [Cronograma de la Distribución de Trabajo](#id7)
-8. [Triggers aplicados](#id8)
-9. [Documentos de diseño pruebas de inserción de datos, consulta y actualización](#id9)
+8. [Documentos de diseño pruebas de inserción de datos, consulta y actualización](#id8)
 
 ___
 
@@ -45,9 +44,14 @@ El contenido de este partado se encuentra en la carpeta [Modelo Lógico Relacion
 - [Enlace al PDF en Drive](https://drive.google.com/file/d/18uPdbiSXtxUwEnKGpMzqueyYEs2_Ybi7/view?usp=sharing)
 
 ### 5. Generación de Código <a name="id5"></a>
-El contenido de este partado se encuentra en la carpeta [Generación de código](), la cual incluye la explicación en el PDF y el script de generación de código.
+El contenido de este partado se encuentra en la carpeta [Generación de código](), la cual incluye la explicación en el PDF y el script de generación de código, lo que implica tanto la base del modelo como la aplicación de los triggers.
 - [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
-- [Enlace al script en GitHub]() - [Enlace al script en Drive]()
+- [Enlace al script de generación de código en GitHub]() - [Enlace al script de generación de código en Drive]()
+
+	- [Enlace al script de triggers 1 en GitHub]() - [Enlace al script de trigger 1 en Drive]()
+	- [Enlace al script de triggers 2 en GitHub]() - [Enlace al script de trigger 2 en Drive]()
+	- [Enlace al script de triggers 3 en GitHub]() - [Enlace al script de trigger 3 en Drive]()
+	- [Enlace al script de triggers 4 en GitHub]() - [Enlace al script de trigger 4 en Drive]()
 
 ### 6. Carga de Datos <a name="id6"></a>
 El contenido de este partado se encuentra en la carpeta [Carga de datos](), la cual incluye la explicación en el PDF y el script de carga de datos.
@@ -59,12 +63,7 @@ Descripción breve
 - [Enlace al PDF en GitHub]()
 - [Enlace al PDF en Drive]()
 
-### 8. Triggers aplicados <a name="id8"></a>
-Descripción breve
-- [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
-- [Enlace al script en GitHub]() - [Enlace al script en Drive]()
-
-### 9. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id9"></a>
+### 8. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id8"></a>
 Descripción breve
 - [Enlace al PDF en GitHub]()
 - [Enlace al PDF en Drive]()
