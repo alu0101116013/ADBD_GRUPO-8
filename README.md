@@ -47,34 +47,24 @@ El contenido de este partado se encuentra en la carpeta [Modelo Lógico Relacion
 - [Enlace al PDF en Drive](https://drive.google.com/file/d/18uPdbiSXtxUwEnKGpMzqueyYEs2_Ybi7/view?usp=sharing)
 
 ### 5. Generación de Código <a name="id5"></a>
-Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
+El contenido de este partado se encuentra en la carpeta [Generación de código](), la cual incluye la explicación en el PDF y el script de generación de código.
+- [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
+- [Enlace al script en GitHub]() - [Enlace al script en Drive]()
 
 ### 6. Carga de Datos <a name="id6"></a>
-Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
+El contenido de este partado se encuentra en la carpeta [Carga de datos](), la cual incluye la explicación en el PDF y el script de carga de datos.
+- [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
+- [Enlace al script en GitHub]() - [Enlace al script en Drive]()
 
 ### 7. Cronograma de la Distribución de Trabajo <a name="id7"></a>
 Descripción breve
 - [Enlace al PDF en GitHub]()
 - [Enlace al PDF en Drive]()
 
-### 8. Script de Generación de Código <a name="id8"></a>
-Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
-
-### 9. Script de Carga de Datos <a name="id9"></a>
-Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
-
 ### 10. Triggers aplicados <a name="id10"></a>
 Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
+- [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
+- [Enlace al script en GitHub]() - [Enlace al script en Drive]()
 
 ### 11. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id11"></a>
 Descripción breve
