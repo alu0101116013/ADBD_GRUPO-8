@@ -33,18 +33,18 @@ El proyecto final a desarrollar consiste en diseñar e implementar una propia ba
 
 ### 2. Supuesto del Proyecto de BBDD <a name="id2"></a>
 Los componentes de este proyecto hemos decidido llevar a cabo una base de datos correspondiente a la gestión de un club deportivo.
-- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Documentos%20del%20Proyecto/Supuesto%20del%20proyecto%20de%20BBDD.pdf)
+- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Supuesto%20del%20Proyecto%20de%20BBDD/Supuesto%20del%20proyecto%20de%20BBDD.pdf)
 - [Enlace Drive](https://drive.google.com/file/d/14hSgZ9raKDNAWRXl9-eUyaml0oNe0_RK/view?usp=sharing)
  
 ### 3. Modelo Conceptual E-R <a name="id3"></a>
 Descripción breve
-- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Documentos%20del%20Proyecto/Modelo%20E-R.pdf)
-- [Enlace Drive](https://drive.google.com/file/d/1p6va2wQwCAbSfThFObRP6R2zDlyJyIuS/view?usp=sharing)
+- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Modelo%20Entidad-Relaci%C3%B3n/Modelo%20E-R.pdf)
+- [Enlace Drive](https://drive.google.com/file/d/11_bF9MMOjm_G99F6UHEPMZ0MskwAGjH5/view?usp=sharing)
 
 ### 4. Modelo Lógico Relacional <a name="id4"></a>
 Descripción breve
-- [Enlace GitHub]()
-- [Enlace Drive]()
+- [Enlace GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Modelo%20L%C3%B3gico%20Relacional/Modelo%20L%C3%B3gico%20Relacional.pdf)
+- [Enlace Drive](https://drive.google.com/file/d/18uPdbiSXtxUwEnKGpMzqueyYEs2_Ybi7/view?usp=sharing)
 
 ### 5. Generación de Código <a name="id5"></a>
 Descripción breve
