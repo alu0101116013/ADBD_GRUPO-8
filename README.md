@@ -20,10 +20,8 @@ ___
 5. [Generación de Código](#id5)
 6. [Carga de Datos](#id6)
 7. [Cronograma de la Distribución de Trabajo](#id7)
-8. [Script de Generación de Código](#id8)
-9. [Script de Carga de Datos](#id9)
-10. [Triggers aplicados](#id10)
-11. [Documentos de diseño pruebas de inserción de datos, consulta y actualización](#id11)
+8. [Triggers aplicados](#id8)
+9. [Documentos de diseño pruebas de inserción de datos, consulta y actualización](#id9)
 
 ___
 
@@ -61,12 +59,12 @@ Descripción breve
 - [Enlace al PDF en GitHub]()
 - [Enlace al PDF en Drive]()
 
-### 10. Triggers aplicados <a name="id10"></a>
+### 8. Triggers aplicados <a name="id8"></a>
 Descripción breve
 - [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
 - [Enlace al script en GitHub]() - [Enlace al script en Drive]()
 
-### 11. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id11"></a>
+### 9. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id9"></a>
 Descripción breve
 - [Enlace al PDF en GitHub]()
 - [Enlace al PDF en Drive]()
