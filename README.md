@@ -2,9 +2,9 @@
 Asignatura de Administración y Diseño de Base de Datos ULL
 
 ## Grupo 8
-- Kabir Chetwani Kaknani --> <alu0101116013@ull.edu.es>
-- David Valverde Gómez --> <alu0101100296@ull.edu.es>
-- Rafael Cala González --> <alu0101121901@ull.edu.es>
+- Kabir Chetwani Kaknani ➭ <alu0101116013@ull.edu.es>
+- David Valverde Gómez ➭ <alu0101100296@ull.edu.es>
+- Rafael Cala González ➭ <alu0101121901@ull.edu.es>
 
 ### Descripción
 Este repositorio contiene el proyecto final asignado por el profesorado de la asignatura de Administración y Diseño de Base de Datos de la ULL.
