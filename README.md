@@ -1,5 +1,5 @@
-# ADBD
-Asignatura de Administración y Diseño de Base de Datos ULL
+# Proyecto Base de Datos Deportiva
+## Administración y Diseño de Base de Datos ULL
 
 ## Grupo 8
 - Kabir Chetwani Kaknani ➭ <alu0101116013@ull.edu.es>
