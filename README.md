@@ -20,7 +20,6 @@ ___
 5. [Generación de Código](#id5)
 6. [Carga de Datos](#id6)
 7. [Cronograma de la Distribución de Trabajo](#id7)
-8. [Documentos de diseño pruebas de inserción de datos, consulta y actualización](#id8)
 
 ___
 
@@ -43,30 +42,26 @@ El contenido de este partado se encuentra en la carpeta [Modelo Lógico Relacion
 - [Enlace al PDF en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Modelo%20L%C3%B3gico%20Relacional/Modelo%20L%C3%B3gico%20Relacional.pdf)
 - [Enlace al PDF en Drive](https://drive.google.com/file/d/18uPdbiSXtxUwEnKGpMzqueyYEs2_Ybi7/view?usp=sharing)
 
-### 5. Generación de Código <a name="id5"></a>
+### [5. Generación de Código](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Generaci%C3%B3n%20de%20C%C3%B3digo) <a name="id5"></a>
 El contenido de este partado se encuentra en la carpeta [Generación de código](), la cual incluye la explicación en el PDF y el script de generación de código, lo que implica tanto la base del modelo como la aplicación de los triggers.
-- [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
-- [Enlace al script de generación de código en GitHub]() - [Enlace al script de generación de código en Drive]()
+- [Enlace al PDF en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Generaci%C3%B3n%20de%20C%C3%B3digo/Generaci%C3%B3n%20de%20C%C3%B3digo.pdf) 
+- [Enlace al PDF en Drive](https://drive.google.com/file/d/1eQ7TMYCYBCRQr6iN7J3IfW2KDay5US6H/view?usp=sharing)
+- [Enlace al directorio con los triggers en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Generaci%C3%B3n%20de%20C%C3%B3digo/TRIGGERS)
+- [Enlace al directorio con los triggers en Drive](https://drive.google.com/drive/folders/1FygROcb-8jwFTlKQh3iw_WS1ESisdGE1?usp=sharing)
+- [Enlace al directorio con los scripts de generación de código en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Generaci%C3%B3n%20de%20C%C3%B3digo/CARGA%20DE%20DATOS) 
+- [Enlace al directorio con los scripts de generación de código en Drive](https://drive.google.com/drive/folders/1-oTuFgpCUcvZIYopoJZHFkGdYEs3TtNq?usp=sharing) 
 
-	- [Enlace al script de triggers 1 en GitHub]() - [Enlace al script de trigger 1 en Drive]()
-	- [Enlace al script de triggers 2 en GitHub]() - [Enlace al script de trigger 2 en Drive]()
-	- [Enlace al script de triggers 3 en GitHub]() - [Enlace al script de trigger 3 en Drive]()
-	- [Enlace al script de triggers 4 en GitHub]() - [Enlace al script de trigger 4 en Drive]()
 
-### 6. Carga de Datos <a name="id6"></a>
+### [6. Carga de Datos](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Carga%20de%20Datos) <a name="id6"></a>
 El contenido de este partado se encuentra en la carpeta [Carga de datos](), la cual incluye la explicación en el PDF y el script de carga de datos.
-- [Enlace al PDF en GitHub]() - [Enlace al PDF en Drive]()
-- [Enlace al script en GitHub]() - [Enlace al script en Drive]()
+En este documento se pueden encontrar las consultas de prueba realizadas para la verificación de la correcta inserción de los datos, así como pruebas para el funcionamiento de los *triggers*.
+- [Enlace al PDF en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Carga%20de%20Datos/Migraci%C3%B3n%20y%20Carga%20inicial%20de%20datos%20-%20CSI8.pdf) 
+- [Enlace al PDF en Drive](https://drive.google.com/file/d/1oS_oLw9DQRYwVYIvGu226JVW4Uqfyyxh/view?usp=sharing)
 
-### 7. Cronograma de la Distribución de Trabajo <a name="id7"></a>
+### [7. Cronograma de la Distribución de Trabajo](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Distribuci%C3%B3n%20de%20Trabajo) <a name="id7"></a>
 Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
-
-### 8. Documentos de diseño pruebas de inserción de datos, consulta y actualización <a name="id8"></a>
-Descripción breve
-- [Enlace al PDF en GitHub]()
-- [Enlace al PDF en Drive]()
+- [Enlace al PDF en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Distribuci%C3%B3n%20de%20Trabajo/Cronograma%20de%20la%20Distribuci%C3%B3n%20de%20Trabajo.pdf)
+- [Enlace al PDF en Drive](https://drive.google.com/file/d/1lT-uauYe0lK2SQ3MQX8NxPiGJJzgKnR5/view?usp=sharing)
 
 ___
 
