@@ -43,7 +43,7 @@ El contenido de este partado se encuentra en la carpeta [Modelo Lógico Relacion
 - [Enlace al PDF en Drive](https://drive.google.com/file/d/18uPdbiSXtxUwEnKGpMzqueyYEs2_Ybi7/view?usp=sharing)
 
 ### [5. Generación de Código](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Generaci%C3%B3n%20de%20C%C3%B3digo) <a name="id5"></a>
-El contenido de este partado se encuentra en la carpeta [Generación de código](), la cual incluye la explicación en el PDF y el script de generación de código, lo que implica tanto la base del modelo como la aplicación de los triggers.
+El contenido de este partado se encuentra en la carpeta [Generación de código](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Generaci%C3%B3n%20de%20C%C3%B3digo), la cual incluye la explicación en el PDF y el script de generación de código, lo que implica tanto la base del modelo como la aplicación de los triggers.
 - [Enlace al PDF en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Generaci%C3%B3n%20de%20C%C3%B3digo/Generaci%C3%B3n%20de%20C%C3%B3digo.pdf) 
 - [Enlace al PDF en Drive](https://drive.google.com/file/d/1eQ7TMYCYBCRQr6iN7J3IfW2KDay5US6H/view?usp=sharing)
 - [Enlace al directorio con los triggers en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Generaci%C3%B3n%20de%20C%C3%B3digo/TRIGGERS)
@@ -53,7 +53,7 @@ El contenido de este partado se encuentra en la carpeta [Generación de código]
 
 
 ### [6. Carga de Datos](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Carga%20de%20Datos) <a name="id6"></a>
-El contenido de este partado se encuentra en la carpeta [Carga de datos](), la cual incluye la explicación en el PDF y el script de carga de datos.
+El contenido de este partado se encuentra en la carpeta [Carga de datos](https://github.com/alu0101116013/ADBD_GRUPO-8/tree/master/Carga%20de%20Datos), la cual incluye la explicación en el PDF y el script de carga de datos.
 En este documento se pueden encontrar las consultas de prueba realizadas para la verificación de la correcta inserción de los datos, así como pruebas para el funcionamiento de los *triggers*.
 - [Enlace al PDF en GitHub](https://github.com/alu0101116013/ADBD_GRUPO-8/blob/master/Carga%20de%20Datos/Migraci%C3%B3n%20y%20Carga%20inicial%20de%20datos%20-%20CSI8.pdf) 
 - [Enlace al PDF en Drive](https://drive.google.com/file/d/1oS_oLw9DQRYwVYIvGu226JVW4Uqfyyxh/view?usp=sharing)
