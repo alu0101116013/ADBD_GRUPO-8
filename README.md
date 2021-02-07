@@ -9,6 +9,8 @@
 ### Descripción
 Este repositorio contiene el proyecto final asignado por el profesorado de la asignatura de Administración y Diseño de Base de Datos de la ULL.
 
+[Enlace al proyecto completo en Drive](https://drive.google.com/drive/folders/1NEmaTWU9cDgSl8tArgOT_-qYc2LAaqIy?usp=sharing)
+
 ___
 
 ### Índice
